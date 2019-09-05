@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd finalproject && react-app build"
+    "start": "cd finalproject && react-app start"
   },
   "repository": {
     "type": "git",
